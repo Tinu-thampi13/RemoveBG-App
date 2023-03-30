@@ -6,6 +6,7 @@
 * Remove background from any image with just one click
 * Option to save the edited image or share it directly from the app
 * View the original and edited images side by side
+* You can download the image directly to your phone's Gallery
 * Track your usage of the remove.bg API through the app
 
 # Requirements:
@@ -13,16 +14,19 @@
 - Flutter 2.0 or higher
 - Remove.bg API key (can be obtained for free from remove.bg)
 
+# Project Preview: 
+
+
 # Getting Started:
 
 - Clone the repository or download the source code
 - Obtain a remove.bg API key from remove.bg website
-- Navigate to the project directory and create a file named secrets.dart
-- Inside secrets.dart, create a variable named apiKey and assign it the API key obtained from remove.bg as a string, e.g., final String apiKey = "YOUR_API_KEY_HERE";
-- Save and close secrets.dart
-- Run flutter pub get to install the dependencies
+- Navigate to the project directory and create a file named `secrets.dart`
+- Inside `secrets.dart`, create a variable named `apiKey` and assign it the API key obtained from remove.bg as a string, e.g., `final String apiKey = "YOUR_API_KEY_HERE";`
+- Save and close `secrets.dart`
+- Run `flutter pub get` to install the dependencies
 - Connect a device or start an emulator
-- Run flutter run to launch the app on the device or emulator
+- Run `flutter run` to launch the app on the device or emulator
 
 # Usage:
 
