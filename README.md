@@ -39,8 +39,8 @@
 
 # Contributing:
 
-Contributions are welcome! Please submit any bug reports, feature requests, or pull requests through GitHub.
+## _Contributions are welcome! Please submit any bug reports, feature requests, or pull requests through GitHub._
 
 # License:
 
-This application is licensed under the MIT license. See the LICENSE file for more information.
+## _This application is licensed under the MIT license. See the LICENSE file for more information._
