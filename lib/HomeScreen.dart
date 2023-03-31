@@ -1,7 +1,6 @@
 // ignore_for_file: use_build_context_synchronously
-
+// Import all necessary packages for thisc project
 import 'dart:io';
-
 import 'package:before_after/before_after.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
@@ -39,17 +38,18 @@ class _HomeScreenState extends State<HomeScreen> {
       setState(() {});
     } else {}
   }
-
+// Download Image feature 
   downloadImage() async {
-    var perm = await Permission.storage.request();
+    var perm = await Permission.storage.request(); // Storage permission 
 
     if (perm.isGranted) {
-      ImageGallerySaver.saveImage(image!);
+      ImageGallerySaver.saveImage(image!); // Save Image to gallery 
       ScaffoldMessenger.of(context)
           .showSnackBar(const SnackBar(content: Text("Downloaded to Gallery")));
     }
   }
 
+  // UI for Homepage 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
