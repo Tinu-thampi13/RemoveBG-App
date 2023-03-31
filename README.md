@@ -16,10 +16,10 @@
 
 # Project Preview: 
 <p float="left">
- <img src="https://user-images.githubusercontent.com/79778565/228841768-0181085f-ec63-4abd-a6d6-6ff87f8cdb71.jpeg" height= 400 width= 200 hspace="5"/>
- <img src="https://user-images.githubusercontent.com/79778565/228841833-78b5836f-34a0-4c6f-8d8d-a691369993df.jpeg" height= 400 width= 200 hspace="5"/>
- <img src="https://user-images.githubusercontent.com/79778565/228841866-49fe9c53-9c05-4b31-af7b-dd9835407c8e.jpeg" height= 400 width= 200 hspace="5"/>
- <img src="https://user-images.githubusercontent.com/79778565/228841904-67f469d6-7301-4ce4-888d-2babcb35b88d.jpeg" height= 400 width= 200 hspace="5"/>
+ <img src="https://user-images.githubusercontent.com/79778565/228841768-0181085f-ec63-4abd-a6d6-6ff87f8cdb71.jpeg" height= 400 width= 200 hspace="3"/>
+ <img src="https://user-images.githubusercontent.com/79778565/228841833-78b5836f-34a0-4c6f-8d8d-a691369993df.jpeg" height= 400 width= 200 hspace="3"/>
+ <img src="https://user-images.githubusercontent.com/79778565/228841866-49fe9c53-9c05-4b31-af7b-dd9835407c8e.jpeg" height= 400 width= 200 hspace="3"/>
+ <img src="https://user-images.githubusercontent.com/79778565/228841904-67f469d6-7301-4ce4-888d-2babcb35b88d.jpeg" height= 400 width= 200 hspace="3"/>
 </p>
 
 # Getting Started:
@@ -48,8 +48,8 @@
 
 # Contributing:
 
-## _Contributions are welcome! Please submit any bug reports, feature requests, or pull requests through GitHub._
+_Contributions are welcome! Please submit any bug reports, feature requests, or pull requests through GitHub._
 
 # License:
 
-## _This application is licensed under the MIT license. See the LICENSE file for more information._
+_This application is licensed under the MIT license. See the LICENSE file for more information._
